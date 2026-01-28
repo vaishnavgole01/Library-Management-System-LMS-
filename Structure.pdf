@@ -1,0 +1,10 @@
+LibraryManagementSystem/
+│
+├── ui/              → JavaFX Controllers & Views
+├── model/           → Entity classes (Book, Member, User)
+├── dao/             → Database Access Objects
+├── service/         → Business logic
+├── util/            → DB, validation, helpers
+├── reports/         → Report generation
+├── test/            → Unit tests
+└── MainApp.java
